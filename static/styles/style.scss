@@ -1,0 +1,27 @@
+
+body{
+    margin:0;
+    padding:0;
+}
+.main-header header{
+    width:100vw;
+}
+.main-header{
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    left:0;
+    .a-left{
+        margin-left:2vw;
+        float:left;
+    }
+    input{
+        width:60vw;
+        margin-left:5vw;
+        border-radius:2vw;
+    }
+    .a-right{
+        margin-right:2vw;
+        float:right;
+    }
+}
